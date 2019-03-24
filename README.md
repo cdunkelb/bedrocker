@@ -1,5 +1,7 @@
 # bedrocker
 
+A community made Docker container for the [Minecraft Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock/)
+
 ## How to use
 ### Install Docker
 Follow the [instructions here](https://docs.docker.com/install/linux/docker-ce/ubuntu/) to install Docker CE for Ubuntu
